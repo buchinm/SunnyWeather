@@ -3,7 +3,6 @@ package com.sunnyweather.android
 import android.annotation.SuppressLint
 import android.app.Application
 import android.content.Context
-import android.media.session.MediaSession
 
 class SunnyWeatherApplication : Application() {
     companion object{
