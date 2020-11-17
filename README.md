@@ -1,2 +1,0 @@
-# SunnyWeather
-Android project test
